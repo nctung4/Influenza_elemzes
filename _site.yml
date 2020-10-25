@@ -1,0 +1,11 @@
+name: "Influenza elemzés"
+navbar:
+  title: "Influenza elemzés"
+  left:
+    - text: "R kód"
+      href: index.html
+      
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
